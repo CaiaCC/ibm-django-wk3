@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-gufp!_nem+$rrz6ytnr)98&c$z^gg7sr(57t*1*bm3gl#7^gtr
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*','.us-south.codeengine.appdomain.cloud']
 
 
 # Application definition
